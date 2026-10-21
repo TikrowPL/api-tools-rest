@@ -45,7 +45,7 @@
         }
     ],
     "require": {
-        "php": "^7.3 || ~8.0.0",
+        "php": "~8.4.0",
         "laminas-api-tools/api-tools-api-problem": "^1.4.0",
         "laminas-api-tools/api-tools-content-negotiation": "^1.5.0",
         "laminas-api-tools/api-tools-hal": "^1.4",
